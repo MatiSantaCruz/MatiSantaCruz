@@ -12,7 +12,7 @@ Mi objetivo es tender un puente entre los datos y la estrategia de negocio, conv
 ---
 ## 👨🏻‍💻 Te invito a conocer mi [Portafolio](https://matisantacruz.github.io/Portfolio.github.io/index.html)
 
-¿Listo para potenciar tu negocio con datos? Conversemos sobre tus desafíos y cómo puedo ayudarte a alcanzar tus objetivos. La primera consulta es sin compromiso.
+¿Trabajas constantemente con datos? Conversemos sobre tus desafíos y cómo puedo ayudarte a alcanzar tus objetivos.
 
 ---
 ## 🛠️ Mi Kit de Herramientas Tecnológicas
@@ -33,7 +33,7 @@ Mi objetivo es tender un puente entre los datos y la estrategia de negocio, conv
 
 ---
 
-## Conoce mi [Emprendimiento](https://www.dataworks.com.ar/)
+## Conoce mi emprendimiento [DataWorks Solutions](https://www.dataworks.com.ar/)
 
 **DataWorks Solutions** se dedica a ayudar a las organizaciones a transformar los datos en acciones significativas, impulsando la eficiencia y logrando el éxito empresarial a través de la innovación tecnológica y el análisis inteligente.
 
