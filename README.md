@@ -1,4 +1,6 @@
-# ¡Hola! 👋 Soy Matias Santa Cruz
+# ¡Hola! 👋 Soy Matias Santa Cruz 
+<p align="left">
+<a href="https://linkedin.com/in/matias-santa-cruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Matias Santa Cruz" height="30" width="40" /></a></p>
 ### De la Contabilidad al Código: Analista de Datos que Construye Soluciones con Impacto
 
 Con más de 5 años de experiencia liderando equipos de administración y contabilidad, descubrí que mi verdadera pasión es usar los datos para impulsar decisiones estratégicas. Mi viaje profesional me ha llevado desde la contabilidad tradicional hasta el análisis de datos moderno, obteniendo la **Certificación de Google en Data Analytics**.
