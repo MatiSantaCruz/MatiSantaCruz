@@ -12,7 +12,7 @@ Mi objetivo es tender un puente entre los datos y la estrategia de negocio, conv
 ---
 ## 👨🏻‍💻 Te invito a conocer mi [Portafolio](https://matisantacruz.github.io/Portfolio.github.io/index.html)
 
-¿Listo para potenciar tu negocio con datos? Conversemos sobre tus desafíos y cómo puedo ayudarte a alcanzar tus objetivos. La primera consulta es sin compromiso.
+<p>¿Listo para potenciar tu negocio con datos? Conversemos sobre tus desafíos y cómo puedo ayudarte a alcanzar tus objetivos. La primera consulta es sin compromiso.</p>
 ---
 
 ## 🛠️ Mi Kit de Herramientas Tecnológicas
