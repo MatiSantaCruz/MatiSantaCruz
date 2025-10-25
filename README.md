@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Matias Santa Cruz 
 <p align="right">
-<a href="https://linkedin.com/in/matias-santa-cruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Matias Santa Cruz" height="30" width="40" />Matias Santa Cruz</a>
+<a href="https://linkedin.com/in/matias-santa-cruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Matias Santa Cruz" height="30" width="40" /></a>
 </p>
 
 ### De la Contabilidad al Código: Analista de Datos que Construye Soluciones con Impacto
@@ -13,7 +13,7 @@ Mi objetivo es tender un puente entre los datos y la estrategia de negocio, conv
 
 ## 🛠️ Mi Kit de Herramientas Tecnológicas
 
-<p align="center">
+<p align="left">
     <a href="https://www.google.com/search?q=SQL" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="SQL" width="40" height="40"/> </a>
     <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a>
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/> </a>
