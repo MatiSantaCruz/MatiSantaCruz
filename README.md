@@ -50,5 +50,5 @@ Mi objetivo es tender un puente entre los datos y la estrategia de negocio, conv
 
 <p align="left">
 <a href="https://linkedin.com/in/matias-santa-cruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Matias Santa Cruz" height="30" width="40" /></a>
-<a href="mailto:santacruz.matias.eze@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/646/646094.png" alt="Email" height="30" width="30" /></a>
+<a href="mailto:santacruz.matias.eze@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="30" width="30" /></a>
 </p>
