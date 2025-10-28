@@ -19,7 +19,7 @@ Mi objetivo es tender un puente entre los datos y la estrategia de negocio, conv
 
 <p align="left">
     <a href="https://www.google.com/search?q=SQL" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="SQL" width="40" height="40"/> </a>
-    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a>
+    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/640px-R_logo.svg.png" alt="R" width="40" height="40"/> </a>
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/> </a>
     <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="BigQuery" width="40" height="40"/> </a>
     <a href="https://www.microsoft.com/es-es/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40"/> </a>
