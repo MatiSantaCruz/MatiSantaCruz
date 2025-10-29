@@ -33,7 +33,7 @@ Mi objetivo es tender un puente entre los datos y la estrategia de negocio, conv
 
 ---
 
-## Conoce mi emprendimiento [DataWorks Solutions](https://www.dataworks.com.ar/)
+## Conoce mi emprendimiento [DataWorks Solutions](https://dataworks-solutions.github.io/)
 
 **DataWorks Solutions** se dedica a ayudar a las organizaciones a transformar los datos en acciones significativas, impulsando la eficiencia y logrando el éxito empresarial a través de la innovación tecnológica y el análisis inteligente.
 
