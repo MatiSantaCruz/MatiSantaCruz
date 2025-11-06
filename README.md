@@ -10,7 +10,7 @@ Con más de 5 años de experiencia liderando equipos de administración y contab
 Mi objetivo es tender un puente entre los datos y la estrategia de negocio, convirtiendo información compleja en visualizaciones claras e insights accionables.
 
 ---
-## 👨🏻‍💻 Te invito a conocer mi [Portafolio](https://matisantacruz.github.io/Portfolio.github.io/index.html)
+## 👨🏻‍💻 Te invito a conocer mi [Portafolio](https://matisantacruz.github.io)
 
 ¿Trabajas constantemente con datos? Conversemos sobre tus desafíos y cómo puedo ayudarte a alcanzar tus objetivos.
 
